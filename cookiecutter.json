@@ -1,0 +1,9 @@
+{
+  "project_name": "Mi Sistema Experto",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+  "author_name": "Tu Nombre",
+  "email": "tu@correo.com",
+  "open_source_license": ["MIT", "Apache-2.0", "None"],
+  "python_version": "3.10",
+  "year": "2025"
+}
